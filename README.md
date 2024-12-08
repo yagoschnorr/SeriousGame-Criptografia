@@ -23,7 +23,7 @@ Após a escolha, o jogador receberá uma palavra de 6 dígitos (quantidade máxi
 
 Vence o jogador que chegar com seus 4 peões ao final do seu percurso no tabuleiro e responder corretamente, seja por embasamento completo ou chute calculado, a palavra-chave que abrirá o criptex e solucionará o mistério.
 
-Para mais instruções e regras segue o link para o GDD do jogo: 
+Para mais instruções e regras segue o link para o GDD do jogo: https://github.com/yagoschnorr/SeriousGame-Criptografia/blob/main/GGD/GDD%20Decypher.pdf
 
 ## Equipe
 
